@@ -1,5 +1,5 @@
 # WebScanner
-Scanning htmls 
+Scanning htmls (Spring boot + H2 + Spring Data JPA)
 
 Test Data :- Used in unit testcases
 "www.google.co.in","accounts.google.com","www.youtube.com","www.epam.
